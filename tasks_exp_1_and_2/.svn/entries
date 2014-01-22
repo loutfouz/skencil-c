@@ -1,0 +1,247 @@
+8
+
+dir
+0
+http://subversion.assembla.com/svn/skencil/Darwin/tasks_backup
+http://subversion.assembla.com/svn/skencil
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+b2.sk
+file
+
+
+
+add
+
+f1.sk~
+file
+
+
+
+add
+
+c2.sk
+file
+
+
+
+add
+
+d2.sk
+file
+
+
+
+add
+
+e2.sk
+file
+
+
+
+add
+
+f2.sk
+file
+
+
+
+add
+
+g2.sk
+file
+
+
+
+add
+
+h2.sk
+file
+
+
+
+add
+
+i2.sk
+file
+
+
+
+add
+
+j2.sk
+file
+
+
+
+add
+
+k2.sk
+file
+
+
+
+add
+
+.DS_Store
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+a1.sk
+file
+
+
+
+add
+
+b1.sk
+file
+
+
+
+add
+
+e1.sk~
+file
+
+
+
+add
+
+a3.sk
+file
+
+
+
+add
+
+c1.sk
+file
+
+
+
+add
+
+d1.sk
+file
+
+
+
+add
+
+b3.sk
+file
+
+
+
+add
+
+e1.sk
+file
+
+
+
+add
+
+c3.sk
+file
+
+
+
+add
+
+f1.sk
+file
+
+
+
+add
+
+d3.sk
+file
+
+
+
+add
+
+e3.sk
+file
+
+
+
+add
+
+g1.sk
+file
+
+
+
+add
+
+f3.sk
+file
+
+
+
+add
+
+h1.sk
+file
+
+
+
+add
+
+g3.sk
+file
+
+
+
+add
+
+i1.sk
+file
+
+
+
+add
+
+j1.sk
+file
+
+
+
+add
+
+k1.sk
+file
+
+
+
+add
+
+a2.sk
+file
+
+
+
+add
+
